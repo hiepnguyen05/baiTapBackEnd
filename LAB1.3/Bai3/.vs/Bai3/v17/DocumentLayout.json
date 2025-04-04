@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\tuyensinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\tuyensinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\khoic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\khoic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\khoib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\khoib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|d:\\ky3nam2\\backend\\buoi1\\bai3\\bai3\\khoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CA940C-F885-466F-91C0-B60A879B8031}|Bai3\\Bai3.csproj|solutionrelative:bai3\\khoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TuyenSinh.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\TuyenSinh.cs",
+              "RelativeDocumentMoniker": "Bai3\\TuyenSinh.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\TuyenSinh.cs",
+              "RelativeToolTip": "Bai3\\TuyenSinh.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:26:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhoiC.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiC.cs",
+              "RelativeDocumentMoniker": "Bai3\\KhoiC.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiC.cs",
+              "RelativeToolTip": "Bai3\\KhoiC.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:26:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhoiB.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiB.cs",
+              "RelativeDocumentMoniker": "Bai3\\KhoiB.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiB.cs",
+              "RelativeToolTip": "Bai3\\KhoiB.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:20:17.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhoiA.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiA.cs",
+              "RelativeDocumentMoniker": "Bai3\\KhoiA.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\KhoiA.cs",
+              "RelativeToolTip": "Bai3\\KhoiA.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:17:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThiSinh.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\ThiSinh.cs",
+              "RelativeDocumentMoniker": "Bai3\\ThiSinh.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\ThiSinh.cs",
+              "RelativeToolTip": "Bai3\\ThiSinh.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:14:16.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai3\\Program.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\Bai3\\Bai3\\Program.cs",
+              "RelativeToolTip": "Bai3\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:12:29.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

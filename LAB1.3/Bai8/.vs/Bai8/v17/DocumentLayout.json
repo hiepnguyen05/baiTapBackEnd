@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai8\\bai8\\themuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|solutionrelative:bai8\\themuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai8\\bai8\\quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|solutionrelative:bai8\\quanlythuvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai8\\bai8\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|solutionrelative:bai8\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai8\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CDE7883-8B4B-46BA-8EA2-64D68AA0927E}|Bai8\\Bai8.csproj|solutionrelative:bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyThuVien.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\QuanLyThuVien.cs",
+              "RelativeDocumentMoniker": "Bai8\\QuanLyThuVien.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\QuanLyThuVien.cs",
+              "RelativeToolTip": "Bai8\\QuanLyThuVien.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:41:19.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheMuon.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\TheMuon.cs",
+              "RelativeDocumentMoniker": "Bai8\\TheMuon.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\TheMuon.cs",
+              "RelativeToolTip": "Bai8\\TheMuon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:35:06.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\SinhVien.cs",
+              "RelativeDocumentMoniker": "Bai8\\SinhVien.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\SinhVien.cs",
+              "RelativeToolTip": "Bai8\\SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:31:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "Bai8\\Program.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai8\\Bai8\\Program.cs",
+              "RelativeToolTip": "Bai8\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwBAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:06:44.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

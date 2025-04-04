@@ -1,0 +1,14 @@
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\bin\Debug\net8.0\Bai6.exe
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\bin\Debug\net8.0\Bai6.deps.json
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\bin\Debug\net8.0\Bai6.runtimeconfig.json
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\bin\Debug\net8.0\Bai6.dll
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\bin\Debug\net8.0\Bai6.pdb
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfoInputs.cache
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.AssemblyInfo.cs
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.csproj.CoreCompileInputs.cache
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.dll
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\refint\Bai6.dll
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.pdb
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\Bai6.genruntimeconfig.cache
+D:\Ky3Nam2\Backend\Buoi1\LAB1.3\Bai6\Bai6\obj\Debug\net8.0\ref\Bai6.dll
