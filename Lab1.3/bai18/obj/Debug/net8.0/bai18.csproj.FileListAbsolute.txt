@@ -1,0 +1,14 @@
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.AssemblyInfoInputs.cache
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.AssemblyInfo.cs
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.csproj.CoreCompileInputs.cache
+D:\BackEnd\lab1.3\bai18\bin\Debug\net8.0\bai18.exe
+D:\BackEnd\lab1.3\bai18\bin\Debug\net8.0\bai18.deps.json
+D:\BackEnd\lab1.3\bai18\bin\Debug\net8.0\bai18.runtimeconfig.json
+D:\BackEnd\lab1.3\bai18\bin\Debug\net8.0\bai18.dll
+D:\BackEnd\lab1.3\bai18\bin\Debug\net8.0\bai18.pdb
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.dll
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\refint\bai18.dll
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.pdb
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\bai18.genruntimeconfig.cache
+D:\BackEnd\lab1.3\bai18\obj\Debug\net8.0\ref\bai18.dll

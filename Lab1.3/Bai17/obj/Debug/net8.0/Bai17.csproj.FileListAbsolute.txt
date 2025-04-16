@@ -1,0 +1,14 @@
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.AssemblyInfoInputs.cache
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.AssemblyInfo.cs
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.csproj.CoreCompileInputs.cache
+D:\BackEnd\lab1.3\Bai17\bin\Debug\net8.0\Bai17.exe
+D:\BackEnd\lab1.3\Bai17\bin\Debug\net8.0\Bai17.deps.json
+D:\BackEnd\lab1.3\Bai17\bin\Debug\net8.0\Bai17.runtimeconfig.json
+D:\BackEnd\lab1.3\Bai17\bin\Debug\net8.0\Bai17.dll
+D:\BackEnd\lab1.3\Bai17\bin\Debug\net8.0\Bai17.pdb
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.dll
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\refint\Bai17.dll
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.pdb
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\Bai17.genruntimeconfig.cache
+D:\BackEnd\lab1.3\Bai17\obj\Debug\net8.0\ref\Bai17.dll

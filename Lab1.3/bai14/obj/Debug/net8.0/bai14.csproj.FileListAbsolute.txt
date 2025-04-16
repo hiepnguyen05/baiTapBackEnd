@@ -1,0 +1,14 @@
+D:\BackEnd\lab1.3\bai14\bin\Debug\net8.0\bai14.exe
+D:\BackEnd\lab1.3\bai14\bin\Debug\net8.0\bai14.deps.json
+D:\BackEnd\lab1.3\bai14\bin\Debug\net8.0\bai14.runtimeconfig.json
+D:\BackEnd\lab1.3\bai14\bin\Debug\net8.0\bai14.dll
+D:\BackEnd\lab1.3\bai14\bin\Debug\net8.0\bai14.pdb
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.AssemblyInfoInputs.cache
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.AssemblyInfo.cs
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.csproj.CoreCompileInputs.cache
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.dll
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\refint\bai14.dll
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.pdb
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\bai14.genruntimeconfig.cache
+D:\BackEnd\lab1.3\bai14\obj\Debug\net8.0\ref\bai14.dll

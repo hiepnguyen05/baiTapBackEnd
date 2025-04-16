@@ -1,0 +1,14 @@
+D:\BackEnd\lab1.3\bai22\bin\Debug\net8.0\bai22.exe
+D:\BackEnd\lab1.3\bai22\bin\Debug\net8.0\bai22.deps.json
+D:\BackEnd\lab1.3\bai22\bin\Debug\net8.0\bai22.runtimeconfig.json
+D:\BackEnd\lab1.3\bai22\bin\Debug\net8.0\bai22.dll
+D:\BackEnd\lab1.3\bai22\bin\Debug\net8.0\bai22.pdb
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.AssemblyInfoInputs.cache
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.AssemblyInfo.cs
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.csproj.CoreCompileInputs.cache
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.dll
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\refint\bai22.dll
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.pdb
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\bai22.genruntimeconfig.cache
+D:\BackEnd\lab1.3\bai22\obj\Debug\net8.0\ref\bai22.dll
