@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bai8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

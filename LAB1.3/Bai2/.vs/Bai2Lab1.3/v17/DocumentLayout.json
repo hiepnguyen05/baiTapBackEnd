@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\quanlytailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\quanlytailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|d:\\ky3nam2\\backend\\buoi1\\lab1.3\\bai2\\bai2lab1.3\\taileu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7912E06-D3F4-468C-A815-B33FAE1F41AB}|Bai2Lab1.3\\Bai2Lab1.3.csproj|solutionrelative:bai2lab1.3\\taileu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Main.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\Main.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Main.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:58:05.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyTaiLieu.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\QuanLyTaiLieu.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\QuanLyTaiLieu.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\QuanLyTaiLieu.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\QuanLyTaiLieu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:54:38.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bao.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Bao.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\Bao.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Bao.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\Bao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TapChi.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\TapChi.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\TapChi.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\TapChi.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\TapChi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:50:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Sach.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\Sach.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Sach.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\Sach.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:37:21.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Taileu.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Taileu.cs",
+              "RelativeDocumentMoniker": "Bai2Lab1.3\\Taileu.cs",
+              "ToolTip": "D:\\Ky3Nam2\\Backend\\Buoi1\\LAB1.3\\Bai2\\Bai2Lab1.3\\Taileu.cs",
+              "RelativeToolTip": "Bai2Lab1.3\\Taileu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T09:16:38.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
