@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Edit Task";
+    int taskId = (int)ViewBag.TaskId;
+    string taskName = (string)ViewBag.TaskName;
+}
+
+<h2>Edit Task</h2>
+
+<form method="post">
+    <input type="hidden" name="id" value="@taskId" />
+    <div class="form-group">
+        <label for="updatedTask">Task</label>
+        <input type="text" class="form-control" id="updatedTask" name="updatedTask" value="@taskName" required />
+    </div>
+    <button type="submit" class="btn btn-primary mt-2">Save</button>
+</form>

@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Todo List";
+    var tasks = ViewBag.Tasks as List<string>;
+}
+
+<h1>Todo List</h1>
+<a href="/Todo/Add" class="btn btn-primary mb-3">Add Task</a>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Task</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < tasks.Count; i++)
+        {
+            <tr>
+                <td>@(i + 1)</td>
+                <td>@tasks[i]</td>
+                <td>
+                    <a class="btn btn-warning" href="/Todo/Edit/@i">Edit</a>
+                    <a class="btn btn-danger" href="/Todo/Delete">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
