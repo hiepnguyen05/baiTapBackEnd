@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\",
+  "WorkspaceRootPath": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\lab2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\lab2\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|d:\\ky3nam2\\backend\\baitap\\lab2\\lab2\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3770A2D9-4211-4D7B-B7BC-84E8A4DB112D}|Lab2\\Lab2.csproj|solutionrelative:lab2\\views\\todo\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,15 +38,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Delete.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Todo\\Delete.cshtml",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Delete.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Todo\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Edit.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Todo\\Edit.cshtml",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Edit.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Todo\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -68,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Add.cshtml",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Add.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Todo\\Add.cshtml",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Add.cshtml",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Add.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Todo\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -80,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -92,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Index.cshtml",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab2\\Views\\Todo\\Index.cshtml",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Views\\Todo\\Index.cshtml",
               "RelativeToolTip": "Lab2\\Views\\Todo\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -105,26 +113,59 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Lab2.csproj",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2.csproj",
               "RelativeDocumentMoniker": "Lab2\\Lab2.csproj",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Lab2.csproj",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2.csproj",
               "RelativeToolTip": "Lab2\\Lab2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T13:19:57.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T13:19:57.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TodoController.cs",
-              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Controllers\\TodoController.cs",
+              "DocumentMoniker": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "Lab2\\Controllers\\TodoController.cs",
-              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Lab2\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Ky3Nam2\\BackEnd\\BaiTap\\Lab2\\Lab2\\Controllers\\TodoController.cs",
               "RelativeToolTip": "Lab2\\Controllers\\TodoController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAAwEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:20:33.453Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1218,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:95:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:96:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             }
           ]
         }

@@ -1,0 +1,43 @@
+﻿@model Lab5.Areas.Administrator.Models.User
+
+@{
+    ViewData["Title"] = "Sửa thông tin người dùng";
+    Layout = "~/Areas/Administrator/Views/_Layout.cshtml";
+}
+
+<h1>Sửa thông tin người dùng</h1>
+
+<form asp-action="Edit">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="id" />
+    <div class="form-group">
+        <label asp-for="name" class="control-label"></label>
+        <input asp-for="name" class="form-control" />
+        <span asp-validation-for="name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="progress" class="control-label"></label>
+        <input asp-for="progress" class="form-control" />
+        <span asp-validation-for="progress" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="amount" class="control-label"></label>
+        <input asp-for="amount" class="form-control" />
+        <span asp-validation-for="amount" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="deadline" class="control-label"></label>
+        <input asp-for="deadline" class="form-control" type="datetime-local" />
+        <span asp-validation-for="deadline" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="image" class="control-label"></label>
+        <input asp-for="image" class="form-control" />
+        <span asp-validation-for="image" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Lưu" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </div>
+</form>
+
